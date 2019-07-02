@@ -1,3 +1,3 @@
 # devnet
 DevNet LAb
-OsoMAn no estes jugando
+OsoMan no estes jugando
