@@ -1,3 +1,3 @@
 # devnet
-DevNet LAb
+DevNet Laboratory
 OsoMan no estes jugando
